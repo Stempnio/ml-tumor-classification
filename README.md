@@ -11,7 +11,7 @@ Classification of 3 types of brain tumor using neural networks
 * Directory containing trained models (hdf5 format)
 
 #### TumorClassifierModel.mlmodel
-* Best model converted into (Apple) CoreML format
+* Model with highest accuracy converted into (Apple) CoreML format
 
 Models were trained and evaluated on dataset: 
 * https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
