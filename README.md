@@ -1,5 +1,5 @@
 # Tumor classification
-Classification of 3 types of brain tumor using neural networks
+Classification of 3 types of brain tumor using neural networks and support vector machines
 * glioma
 * meningioma
 * pituitary
